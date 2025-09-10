@@ -1,0 +1,14 @@
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/bin/Debug/net9.0/ConsoleApp123
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/bin/Debug/net9.0/ConsoleApp123.deps.json
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/bin/Debug/net9.0/ConsoleApp123.runtimeconfig.json
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/bin/Debug/net9.0/ConsoleApp123.dll
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/bin/Debug/net9.0/ConsoleApp123.pdb
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/obj/Debug/net9.0/ConsoleApp123.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/obj/Debug/net9.0/ConsoleApp123.AssemblyInfoInputs.cache
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/obj/Debug/net9.0/ConsoleApp123.AssemblyInfo.cs
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/obj/Debug/net9.0/ConsoleApp123.csproj.CoreCompileInputs.cache
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/obj/Debug/net9.0/ConsoleApp123.dll
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/obj/Debug/net9.0/refint/ConsoleApp123.dll
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/obj/Debug/net9.0/ConsoleApp123.pdb
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/obj/Debug/net9.0/ConsoleApp123.genruntimeconfig.cache
+/Users/codayawahmed/Desktop/Chas Academy/ConsoleApp123/ConsoleApp123/obj/Debug/net9.0/ref/ConsoleApp123.dll
